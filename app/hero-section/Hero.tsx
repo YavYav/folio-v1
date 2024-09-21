@@ -19,7 +19,7 @@ const Hero = () => {
       <div className="absolute top-10 flex justify-between sm:w-[90%] lg:max-w-[1440px]">
         <div>
           <Link
-            href="https://cal.com/victorwilliams/30min"
+            href="https://drive.google.com/file/d/16TGGon7WsXZjb5rlHKK2Zq599UTq-_74/view?usp=sharing"
             target="_blank"
             aria-label="MY RESUME"
           >
@@ -78,7 +78,7 @@ const Hero = () => {
               className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
               variants={bodyAnimation}
             >
-              CO
+              FB
             </motion.p>
           </Link>
         </div>
@@ -100,7 +100,7 @@ const Hero = () => {
               src={profile}
               priority
               alt="Victor's headshot"
-              data-blobity-tooltip="Giga Chad"
+              data-blobity-tooltip="Laszlo"
               data-blobity-invert="false"
               className=" w-[150px] rounded-[16px] grayscale hover:grayscale-0 md:w-[200px] md:rounded-[32px] lg:w-[245px]"
             />

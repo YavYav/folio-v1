@@ -12,9 +12,9 @@ export type ProjectProps = {
 export const devProjects = [
   {
     id: 0,
-    name: "Odunsi",
+    name: "Laszlo Labs",
     description:
-      "Portfolio website for Michael Odunsi, an experienced UI/UX designer crafting unique, user-friendly products and web experiences for Web3 founders and projects.",
+      " A cutting-edge collection of Discord music bots powered by Lavalink, designed to deliver high-quality, seamless music experiences to your Discord server. Laszlo Labs offers advanced features and smooth integration, providing users with an unparalleled audio experience in real-time.",
     technologies: ["React", "Tailwind CSS", "Framer Motion"],
     github: "https://github.com/victorcodess/odunsi-web3-folio",
     demo: "https://www.odunsi.xyz/",
