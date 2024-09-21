@@ -11,9 +11,9 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
-  title: "Victor Williams — Frontend Engineer",
+  title: "Laszlo — Frontend Engineer",
   description:
-    "Frontend Engineer and Web Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+    "Frontend Engineer and Web Designer, currently study at Royal University of Phnom Phen. Focused on interfaces and experiences, working remotely from Kandal, Cambodia .",
   generator: "Next.js",
   applicationName: "Victor Williams",
   keywords: [
