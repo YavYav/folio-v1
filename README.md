@@ -1,6 +1,6 @@
 # Personal Portfolio Website — v1
 
-My name is Victor Williams, and I’m a front-end engineer and web designer based in Lagos, Nigeria. My passion lies in creating software that solves real-world problems and positively impacts people’s lives.
+My name is TE HENGLAY, and I’m a frontend developer with hands-on experience in building responsive and user-friendly web interfaces. Currently pursuing a degree at the Royal University of Phnom Penh (RUPP), with a strong foundation in HTML, CSS, JavaScript, and modern frontend frameworks. Adept at problem-solving, learning new technologies, and committed to creating seamless digital experiences.
 
 I created this website to showcase my work. I’m always striving to create something unique and innovative. I love experimenting with new technologies and staying up-to-date with the latest trends in the tech world.
 

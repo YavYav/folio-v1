@@ -68,7 +68,7 @@ const Contact = () => {
                 className="bor der mt-1 w-[110px] flex-1 underline underline-offset-2 hover:no-underline sm:mt-2 sm:w-[147px] md:mt-3 md:-ml-[3px] md:w-[120px] lg:mt-4"
               >
                 <AnimatedBody
-                  text={"Book a call"}
+                  text={"MY RESUME"}
                   className={"w-[110px] md:w-[120px]"}
                 />
               </Link>
@@ -77,7 +77,7 @@ const Contact = () => {
 
           <div className="flex gap-10 text-[16px] font-bold text-[#e4ded7]  sm:gap-14 sm:text-[24px] md:gap-10 md:text-[16px] lg:gap-20 lg:text-[28px]">
             <Link
-              href="https://github.com/victorcodess"
+              href="https://github.com/YavYav"
               target="_blank"
               aria-label="View GitHub Profile"
             >
@@ -91,7 +91,7 @@ const Contact = () => {
               />
             </Link>
             <Link
-              href="https://www.linkedin.com/in/victor-williams-chukwudi/"
+              href="https://www.linkedin.com/in/te-henglay-74067532a/"
               target="_blank"
               aria-label="View LinkedIn Profile"
             >
@@ -105,7 +105,7 @@ const Contact = () => {
               />
             </Link>
             <Link
-              href="https://twitter.com/victorwill__"
+              href="https://x.com/Lay_Laszlo"
               target="_blank"
               aria-label="View Twitter Profile"
             >
@@ -119,7 +119,7 @@ const Contact = () => {
               />
             </Link>
             <Link
-              href="https://www.instagram.com/victorwill__/"
+              href="https://www.instagram.com/lay.gatto/"
               target="_blank"
               aria-label="View Instagram Profile"
             >
@@ -133,12 +133,12 @@ const Contact = () => {
               />
             </Link>
             <Link
-              href="https://blog.victorwilliams.me/"
+              href="https://www.facebook.com/HenglayTe"
               target="_blank"
-              aria-label="View Hashnode Profile"
+              aria-label="View Facebook Profile"
             >
               <AnimatedTitle
-                text={"HN"}
+                text={"FB"}
                 className={
                   "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
                 }

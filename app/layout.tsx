@@ -11,11 +11,11 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
-  title: "Laszlo — Frontend Engineer",
+  title: "TE HENGLAY — Frontend Engineer",
   description:
     "Frontend Engineer and Web Designer, currently study at Royal University of Phnom Phen. Focused on interfaces and experiences, working remotely from Kandal, Cambodia .",
   generator: "Next.js",
-  applicationName: "Victor Williams",
+  applicationName: "TE HENGLAY",
   keywords: [
     "freelance",
     "developer",
@@ -37,17 +37,17 @@ export const metadata: Metadata = {
   ],
   colorScheme: "dark",
   openGraph: {
-    title: "Victor Williams — Frontend Engineer",
+    title: "TEHENGLAY — Frontend Engineer",
     description:
-      "Frontend Engineer and Web Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
-    url: "https://www.victorwilliams.me/",
-    siteName: "www.victorwilliams.me",
+      "Frontend Engineer and Web Designer, currently study at Royal University of Phnom Phen. Focused on interfaces and experiences, working remotely from Kandal, Cambodia .",
+    url: "https://laszlo.icu/",
+    siteName: "www.laszlo.icu",
     images: [
       {
         url: "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
         width: 1200,
         height: 630,
-        alt: "Victor Williams — Frontend Engineer",
+        alt: "TE HENGLAY — Frontend Engineer",
       },
     ],
     locale: "en-US",
@@ -55,9 +55,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Victor Williams — Frontend Engineer",
+    title: "TE HENGLAY — Frontend Engineer",
     description:
-      "Frontend Engineer and Web Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+      "Frontend Engineer and Web Designer, currently at RUPP. Focused on interfaces and experiences, working remotely from Phnom Phen, Cambodia.",
     creator: "victorwill__",
     creatorId: "1243720976552144897",
     images: [
