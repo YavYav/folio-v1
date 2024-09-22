@@ -14,7 +14,7 @@ export const devProjects = [
     id: 0,
     name: "Laszlo Labs",
     description:
-      " A cutting-edge collection of Discord music bots powered by Lavalink, designed to deliver high-quality, seamless music experiences to your Discord server. Laszlo Labs offers advanced features and smooth integration, providing users with an unparalleled audio experience in real-time.",
+      " A cutting-edge collection of bots powered by Lavalink, designed to deliver high-quality. Laszlo Labs offers advanced features and smooth integration, providing users with an unparalleled audio experience in real-time.",
     technologies: ["React", "Tailwind CSS", "Framer Motion"],
     github: "https://github.com/victorcodess/odunsi-web3-folio",
     demo: "https://www.odunsi.xyz/",
