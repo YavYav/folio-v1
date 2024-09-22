@@ -23,9 +23,9 @@ export const devProjects = [
   },
   {
     id: 1,
-    name: "Interlock",
+    name: "Laszlo Box",
     description:
-      "This is a website for a Fintech Startup to showcase their innovative solutions tailored to meet the evolving needs of their clients.",
+      "Laszlo Box is a high-performance Discord music bot powered by Lavalink, designed to provide users with an immersive and seamless audio experience. It offers features like high-quality streaming, playlist management, and real-time controls, making it perfect for music lovers and community-driven servers.",
     technologies: ["React", "Tailwind CSS", "Framer Motion"],
     github: "https://github.com/victorcodess/interlock",
     demo: "https://interlock-teal.vercel.app/",
